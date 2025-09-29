@@ -4,67 +4,67 @@
 An interactive Tableau project showcasing sales performance and customer insights through dynamic dashboards. The dashboards combine key KPIs, trends, and customer analytics in one place, making it easier to track growth, retention, and profitability.
 
 
-🔹 Features
+🛠️ Features
 
 
 🔹 Sales Dashboard
 
 
-  - Revenue, profit, and quantity trends with YoY comparisons.
+    - Revenue, profit, and quantity trends with YoY comparisons.
 
-  - Sales & profit by subcategory and product type.
+    - Sales & profit by subcategory and product type.
 
-  - Trend analysis with above/below benchmarks.
+    - Trend analysis with above/below benchmarks.
 
 
 🔹 Customer Dashboard
 
 
-  - Total customers, orders, and average sales per customer.
+    - Total customers, orders, and average sales per customer.
 
-  - Distribution of customers by order frequency.
+    - Distribution of customers by order frequency.
 
-  - Top 10 customers ranked by profit.
-
-
-🔹 Interactive UI
+    - Top 10 customers ranked by profit.
 
 
-  - Embedded filters for categories, subcategories, and locations.
-
-  - Year parameter for switching between 2022/2023 (or custom years).
-
-  - Ability to toggle between Sales and Customer dashboards seamlessly.
+📱 Interactive UI
 
 
-🔹 Preview
+    - Embedded filters for categories, subcategories, and locations.
+
+    - Year parameter for switching between 2022/2023 (or custom years).
+
+    - Ability to toggle between Sales and Customer dashboards seamlessly.
 
 
-  - Sales Dashboard
-
-  - Customer Dashboard
+🔍 Preview
 
 
-🔹 Tools & Tech
+    - Sales Dashboard
+
+    - Customer Dashboard
 
 
-  - Tableau: Interactive dashboards & Data aggregation/visualization.
+🧰 Tools & Tech
 
-  - Kaggle: Data preparation.
 
-  - GitHub: Documentation and version control.
+    - Tableau: Interactive dashboards & Data aggregation/visualization.
+
+    - Kaggle: Data preparation.
+
+    - GitHub: Documentation and version control.
 
 
 🔹 How to Use
 
 
-  - Clone this repository.
+    - Clone this repository.
 
-  - Open the Tableau workbook (.twb / .twbx) in Tableau Desktop.
+    - Open the Tableau workbook (.twb / .twbx) in Tableau Desktop.
 
-  - Connect your dataset or use the provided sample.
+    - Connect your dataset or use the provided sample.
 
-  - Explore dashboards using filters and parameters.
+    - Explore dashboards using filters and parameters.
 
 
 🛡️ License
